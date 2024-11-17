@@ -116,3 +116,8 @@ This is a footnote[^1]. Another footnote[^2].
 
 This is the copy for the collapsed text
 </details>
+
+# Special Additions Grag/Drop/Paste 
+###### In the pull request is possible agregate block of code with use quoation marks for delimitate begining and finish the block ######
+
+###### Other features avialible for use is the emojis in the comments of pull request using  doble using the punctuation mark ":" example :japan ######
