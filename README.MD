@@ -18,3 +18,16 @@ Also Headline Level 2
 ##### Headline Level 5
 ###### Headline Level 6 
 
+**bold**
+__bold__
+
++italic+
+_italic_
+
+~~strike throough~~
+>Quotation
+
+---Horizontal Rule
+***Asterisks
+___Underscores
+
