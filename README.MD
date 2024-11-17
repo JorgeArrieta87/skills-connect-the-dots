@@ -107,4 +107,12 @@ This is a footnote[^1]. Another footnote[^2].
 - [ ] Second 
 
 
-  
+# Collapse Details 
+
+<details>
+<summary> Collasep </summary>
+
+# Header
+
+This is the copy for the collapsed text
+</details>
