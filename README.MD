@@ -75,6 +75,7 @@ https://www.i-a-labs.org
 inline console.log(x) code
 
 ```js let x = 5;
-console.log(x) ```
+console.log(x) 
+```
 
 
