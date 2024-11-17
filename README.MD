@@ -51,9 +51,9 @@ ___Underscores
 # Links #
 https://www.i-a-labs.org 
 
-[Website] (https://www.i-a-labs.org "Lindkein")
+[Website] (https://www.i-a-labs.org "Linkedin")
 
-[Lindkein]
+[Linkedin]
 
 [Learning][1]
 
