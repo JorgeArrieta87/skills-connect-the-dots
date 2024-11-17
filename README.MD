@@ -61,3 +61,13 @@ https://www.i-a-labs.org
 
 [1]: https://www.i-a-labs.org/learning
 
+#Images
+
+![sc2] (https://blz-contentstack-images.akamaized.net/v3/assets/blt0e00eb71333df64e/blta147ced877359b93/6614b1822829dd85f9e9d167/overview_thumbnail.webp)
+
+![sc2]
+
+[storgate]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzG-hDwcvFLUGfIn3MKsusL4ZrakXZddunnw&s 
+
+[![storgate] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzG-hDwcvFLUGfIn3MKsusL4ZrakXZddunnw&s
+)] (https://storgate.com) 
