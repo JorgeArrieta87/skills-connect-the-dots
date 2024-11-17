@@ -134,3 +134,10 @@ Alert Syntax
 > [!WARNING]
 > Warning
 
+###### Special Content
+
+graph TD;
+A -->B;
+A -->C;
+
+
