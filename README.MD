@@ -71,3 +71,10 @@ https://www.i-a-labs.org
 
 [![storgate] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzG-hDwcvFLUGfIn3MKsusL4ZrakXZddunnw&s
 )] (https://storgate.com) 
+
+inline console.log(x) code
+
+```js let x = 5;
+console.log(x) ```
+
+
