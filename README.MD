@@ -88,4 +88,11 @@ This is a footnote[^1]. Another footnote[^2].
 [^1]: My reference
 [^2]: Another Footnote
 
+###  Tables ###
+
+| Left | Center | Right |
+|------|:------:| -----:|
+|One   | Two    | $1.00 |
+|Three | Four   |$120.00|
+|Five  | Six    |$.99   |
 
