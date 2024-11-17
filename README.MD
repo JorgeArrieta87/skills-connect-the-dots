@@ -77,5 +77,14 @@ inline console.log(x) code
 ```js let x = 5;
 console.log(x) 
 ```
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+##Estas opciónes in __MarkDown__ is only for use in github. ##
 
+Footnotes
+_________
+
+This is a footnote[^1]. Another footnote[^2].
+
+[^1]: My reference
+[^2]: Another Footnote
 
