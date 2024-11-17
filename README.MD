@@ -96,5 +96,5 @@ This is a footnote[^1]. Another footnote[^2].
 |Three | Four   |$120.00|
 |Five  | Six    |$.99   |
 
-```sh Echo "! the tables in create in issues and Pull Request dynamically use the caracther ^/^ "
-``` 
+# Echo "! the tables in create in issues and Pull Request dynamically use the caracther ^/^ "
+# 
