@@ -121,3 +121,16 @@ This is the copy for the collapsed text
 ###### In the pull request is possible agregate block of code with use quoation marks for delimitate begining and finish the block ######
 
 ###### Other features avialible for use is the emojis in the comments of pull request using  doble using the punctuation mark ":" example :japan ######
+
+Alert Syntax
+------------
+
+> [!NOTE]
+> A Note
+
+> [!IMPORTANT]
+> Important
+
+> [!WARNING]
+> Warning
+
