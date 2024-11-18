@@ -1,0 +1,42 @@
+# Essential Files in Github Repository
+
+- [ ]  README.md
+    -   [ ]  Purpose
+    -   [ ]  Homepage
+    -   [ ]  root Folder
+    -   [ ]  docs Folder
+    -   [ ]  .github
+    -   [ ]  Table of Contents
+    -   [ ]  License
+    -   [ ] Open Source
+    -   [ ] Helpers
+    -   [ ] CODE_OF_CONDUCT.md
+        -   [ ] Constructive Communities
+        -   [ ] Templates   
+    -   [ ] Formats Options
+        -   [ ]  .md
+        -   [ ]  .txt
+        -   [ ]  .rst
+    -   [ ] SECURITY.md
+        -   [ ] Security_policy
+        -   [ ] Template
+   -   [ ] CONTRIBUTING.md
+       -   [ ] How to Contribute
+       -   [ ] Issue Sider Bar
+  - [ ] SUPPORT.md
+      - [ ] How to Support
+      - [ ] Issue Sider Bar
+  - [ ] CODEOWNERS.md
+    - [ ] How is responsible
+    - [ ] Must Have Permissions
+    - [ ] Automatic notifications
+    - [ ] Branch by branch
+    - [ ] Format
+        - [ ] *.js @grupo
+        - [ ] /docs @grupo1 @grupo2
+        - [ ] **/*.js @grupo
+        - [ ] Similar with .gitignore
+        - [ ] pattern ids
+        - [ ] ID's @username, email @org/team
+       
+  
